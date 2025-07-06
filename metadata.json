@@ -1,15 +1,13 @@
 {
   "name": "America Coin",
   "symbol": "USA",
-  "description": "A patriotic memecoin for the people 🇺🇸",
-  "image": "https://raw.githubusercontent.com/Stephenndiriritu/america-coin-assets/main/us.png",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/Stephenndiriritu/america-coin-assets/main/us.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  }
+  "uri": "https://raw.githubusercontent.com/Stephenndiriritu/america-coin-assets/main/us.png",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "mntsVacCVzAAneaQS6oiUyjs1unHFikvJeM2ipcjrkM",
+      "verified": true,
+      "share": 100
+    }
+  ]
 }
